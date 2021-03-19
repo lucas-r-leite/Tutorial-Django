@@ -1,0 +1,21 @@
+li {
+    color: green;
+}
+a{
+    color: chartreuse;
+}
+body {
+    background: white url("images/background.gif") no-repeat;
+}
+
+h1{
+    color: crimson;
+}
+
+input{
+    color:darkblue ;
+}
+
+label{
+    color: yellow;
+}
